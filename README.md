@@ -10,3 +10,7 @@
 * [Ivan Fesenko](https://github.com/Fesen-chel) - technologist
 * Nikita Marusov - electronic engineer
 * Ivan Bunyakov - designe engineer
+
+## Links
+* [Discord server](https://discord.gg/Xr9fZ7e5)
+* [Polytech university](https://english.spbstu.ru/)
